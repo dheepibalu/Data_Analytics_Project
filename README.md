@@ -2,7 +2,7 @@
 Excel_Project
 Raw Data-Origanized info-Actionalble Insights-Better decesions
 
-Process
+PROCESS
 1.Collect data
 2.Clean data
 3.Explore
